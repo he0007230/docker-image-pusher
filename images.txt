@@ -1,1 +1,1 @@
-portainer/portainer:latest
+openidentityplatform/opendj:4.6.4
