@@ -1,1 +1,1 @@
-eipwork/kuboard:v3
+jellyfin/jellyfin:10.10
