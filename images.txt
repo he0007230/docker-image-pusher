@@ -1,2 +1,1 @@
-jellyfin/jellyfin:10.10
-jellyfin/jellyfin:10
+ghcr.io/stephanrauh/upsnap:latest
